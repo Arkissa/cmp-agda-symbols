@@ -1,6 +1,16 @@
 # cmp-agda-symbols
 > nvim-cmp source for agda symbols 
 
+# Install
+### [lazy.nvim](https://github.com/folke/lazy.nvim)
+
+```lua
+{
+    'hrsh7th/nvim-cmp',
+    dependencies = { 'Arkissa/cmp-agda-symbols' }
+}
+```
+
 # Setup
 ```lua
 require 'cmp'.setup {
