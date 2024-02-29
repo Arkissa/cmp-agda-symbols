@@ -129,7 +129,6 @@ return {
     { word = "\\+ ", label = "\\+  ⊹", insertText = "⊹", filterText = "\\+ " },
     { word = "\\+", label = "\\+ ＋", insertText = "＋", filterText = "\\+" },
     { word = "\\+-", label = "\\+- ±", insertText = "±", filterText = "\\+-" },
-    { word = "\\-", label = "\\- ­", insertText = "­", filterText = "\\-" },
     { word = "\\-+", label = "\\-+ ∓", insertText = "∓", filterText = "\\-+" },
     { word = "\\-->", label = "\\--> ⟶", insertText = "⟶", filterText = "\\-->" },
     { word = "\\-:", label = "\\-: ∹", insertText = "∹", filterText = "\\-:" },
